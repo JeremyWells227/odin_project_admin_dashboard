@@ -94,8 +94,6 @@ button{
 	position: relative;
 	list-style: none;
 	padding-top: 30px;
-	margin-left: 0px;
-	margin-right: 3px;
 }
 
 .sidebar li {
@@ -119,7 +117,6 @@ button{
 	font-size: 1.5em;
 	grid-row: 1;
 	grid-column: 5;
-
 }
 .header p { font-weight: bold;
 }
